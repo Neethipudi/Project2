@@ -5,7 +5,7 @@
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://nice-water-0f91e5d10.3.azurestaticapps.net/  
+**Project Link** - https://lively-pond-08b400d00.3.azurestaticapps.net/  
 
 **Project Demo Link** - https://www.youtube.com/watch?v=QZoxisFtVSs
 
