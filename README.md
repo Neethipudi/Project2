@@ -7,7 +7,7 @@
 
 **Project Link** - https://lively-pond-08b400d00.3.azurestaticapps.net/  
 
-**Project Demo Link** - https://www.youtube.com/watch?v=QZoxisFtVSs
+**Project Demo Link** -https://youtu.be/FxInBuiG8mg
 
 
 ## Azure technologies used for Project
